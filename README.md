@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm Pratosh
 
-<!--
-**pratoshkannadasan/pratoshkannadasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Engineer | Data Scientist | AI Automation Builder
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent enterprise systems, AI-powered automation, voicebots, and scalable AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🤖 Building AI-powered enterprise systems
+- ☎️ Working on Voicebot & Telephony Integrations
+- 🧠 Exploring LLMs, RAG & AI Automation
+- ⚡ FastAPI, Python, n8n, PostgreSQL, Docker
+- ☁️ AWS & Cloudflare deployments
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,aws,cloudflare,nodejs,php,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratoshkannadasan&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/pratoshkannadasan)
