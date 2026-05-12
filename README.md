@@ -71,47 +71,6 @@ Currently building:
 
 ---
 
-# 🔥 Featured Projects
-
-## 🤖 AI-Powered QMS
-Enterprise AI quality monitoring platform for voice & digital channels using OpenAI-powered validation pipelines.
-
-### Key Features
-- AI ticket validation
-- QA scoring automation
-- Real-time analytics dashboards
-- AI-assisted coaching workflows
-- Multi-channel support
-
----
-
-## ☎️ AI-Qbuster Voicebot
-AI-powered callback automation and voicebot platform integrated with telephony systems and CRM workflows.
-
-### Technologies
-- LLMs
-- Speech-to-Text
-- Telephony APIs
-- FastAPI
-- Automation workflows
-
----
-
-## 🧠 Enterprise RAG Platform
-Built scalable Retrieval-Augmented Generation pipelines with:
-- document ingestion
-- chunking strategy
-- vector search
-- reranking
-- evidence-grounded responses
-
----
-
-## 📊 AI Analytics & DSAT Detection
-Developed AI pipelines to identify low-satisfaction customer interactions using NLP and LLM classification systems.
-
----
-
 # 📈 GitHub Stats
 
 
@@ -120,21 +79,6 @@ Developed AI pipelines to identify low-satisfaction customer interactions using 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratoshkannadasan&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-# 🏗️ Engineering Interests
-
-- Enterprise AI Systems
-- AI Infrastructure
-- Agentic AI
-- Voice AI
-- AI Governance
-- RAG Optimization
-- AI Reliability Engineering
-- LLM Evaluation
-- Cloud AI Deployment
-- AI Automation
 
 ---
 
